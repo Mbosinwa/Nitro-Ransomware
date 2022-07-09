@@ -18,6 +18,9 @@ Nitro-Ransomware is an academic ransomware made for learning and spreading aware
  
  This program should only be used for educational purposes only. Do not use this on others maliciously.
  
+ ## Show case
+ ![Video](https://youtu.be/eD_mG2L8G38)
+ 
  ## Preview
  ###### Webhook Preview
  ![Picture](https://i.ibb.co/107VhDh/Screenshot-420.png)
