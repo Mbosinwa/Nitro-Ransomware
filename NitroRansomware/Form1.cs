@@ -23,6 +23,7 @@ namespace NitroRansomware
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            TopMost = true;
             t = new System.Timers.Timer();
             t.Interval = 1000;
             t.Elapsed += OnTimeEvent;
