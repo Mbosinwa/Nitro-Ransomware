@@ -43,10 +43,14 @@ Nitro-Ransomware is an academic ransomware made for learning and spreading aware
  - Asks to be ran as administrator
  - Added manifest
  - Cleaned up code
+ - Form is always on top
 ## Todo
  - Write a ransomnote file to desktop
  - Disable/encrypt other apps
  - Fix timer resetting on restart
+ - Change lockscreen
+ - Add more grabber locations (add me paf.#0001 if u have some good list)
+ - Potentially blocking internet access for everything else but the ransomware (idk if i can do this im braindead hmu paf.#0001 if u can help or pull req)
 
 ## Usage
 1. Make sure you have Visual Studi with C# installed. (.NET Desktop Development).
