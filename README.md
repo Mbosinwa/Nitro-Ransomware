@@ -18,6 +18,9 @@ Nitro-Ransomware is an academic ransomware made for learning and spreading aware
  
  This program should only be used for educational purposes only. Do not use this on others maliciously.
  
+ ## Showcase
+ [showcase](https://youtu.be/eD_mG2L8G38)
+ 
  ## Preview
  ###### Webhook Preview
  ![Picture](https://i.ibb.co/107VhDh/Screenshot-420.png)
@@ -40,6 +43,10 @@ Nitro-Ransomware is an academic ransomware made for learning and spreading aware
  - Asks to be ran as administrator
  - Added manifest
  - Cleaned up code
+## Todo
+ - Write a ransomnote file to desktop
+ - Disable/encrypt other apps
+ - Fix timer resetting on restart
 
 ## Usage
 1. Make sure you have Visual Studi with C# installed. (.NET Desktop Development).
